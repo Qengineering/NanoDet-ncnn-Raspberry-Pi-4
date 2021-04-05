@@ -1,4 +1,4 @@
-# NanoDet on bare Raspberry Pi 4
+# NanoDet on Raspberry Pi 4
 ![output image]( https://qengineering.eu/images/JamesNanoDet_RPi.jpg )
 ## NanoDet with the ncnn framework. <br/>
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)<br/><br/>
@@ -16,8 +16,6 @@ Special made for a bare Raspberry Pi 4 see [Q-engineering deep learning examples
 | YoloV4 | 416x416 tiny | 80 | 21.7 | 11.2 FPS | 3.4 FPS |
 | YoloV4 | 608x608 full | 80 | 45.3 | 0.7 FPS | 0.2 FPS |
 | YoloV5 | 640x640 small| 80 | 22.5 | 4.0 FPS | 1.6 FPS |
-
-------------
 
 ------------
 
