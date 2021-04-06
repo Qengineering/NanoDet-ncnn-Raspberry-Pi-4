@@ -10,7 +10,7 @@ Special made for a bare Raspberry Pi 4 see [Q-engineering deep learning examples
 ## Benchmark.
 | Model  | size | objects | mAP | Jetson Nano 2015 MHz | RPi 4 64-OS 1950 MHz |
 | ------------- | :-----:  | :-----:  | :-----:  | :-------------:  | :-------------: |
-| NanoDet | 320x320 | 80 | 20.6  |  21.1 FPS | **13.0 FPS** |
+| NanoDet | 320x320 | 80 | 20.6  |  28.2 FPS | **13.0 FPS** |
 | YoloV2 | 416x416  | 20 | 19.2 |  10.1 FPS | 3.0 FPS |
 | YoloV3 | 352x352 tiny | 20 | 16.6 | 17.7 FPS | 4.4 FPS |
 | YoloV4 | 416x416 tiny | 80 | 21.7 | 11.2 FPS | 3.4 FPS |
