@@ -372,6 +372,7 @@ int main(int argc, char** argv)
     // the ncnn model https://github.com/nihui/ncnn-assets/tree/master/models
     nanodet.load_param("nanodet_m.param");
     nanodet.load_model("nanodet_m.bin");
+    nanodet.opt.num_threads=4;
 
     cv::VideoCapture cap("James.mp4");
     if (!cap.isOpened()) {
